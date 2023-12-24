@@ -12,6 +12,33 @@ There are two versions of the project. The first version:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Afterward,the team designed a PCB&3Dcase as a final product:
 ![image](https://github.com/alkaff79/SDP_08/assets/130121869/fc768d0a-48a8-4894-bbcb-6b02f95991f4)
 ![image](https://github.com/alkaff79/SDP_08/assets/130121869/683bc09b-66e4-453f-8caf-f7a7832177a2)
