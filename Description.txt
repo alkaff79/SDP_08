@@ -1,0 +1,31 @@
+// EE499: Senior Design Project
+// Winter-2022 
+// Team: 08
+
+- This flash drive include a summary of work done by team-08 from W22 for the senior design project (EE499). the following list shows in detail the content of this flash drive.
+
+1. Finalized Report:
+- This folder include the final version of the finalized report that have been submittied.
+ 
+2. Presentation:
+- This folder include the slides and the recorded video for the final presentation.  
+
+3. Project Poster:
+- This folder has the poster that inculde a summary of the whole process for this senior design project.
+
+4. Software and Codes:
+- This folder include the codes used in programming the microprocessor for the following situations:
+	A. validating SMS Alarming system.
+	B. Validating gases and motion subsystems.
+	C. Final prototype version 1.
+	D. Final Prototype version 2.
+
+5. Team Portfolio:
+- This folder include team protfolio that has all versions of the reports. 
+
+6. Project operating instructions:
+- This folder include the instrcutions and explainations to operate the project. 
+
+7. Prototype Video:
+- this folder include the demonstraion of the prototype of this project.
+
