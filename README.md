@@ -1,4 +1,6 @@
 # SDP_08
+Senior Design Project for team 8 in 2023.
+
 It's become increasingly important to find clean environments as time progresses. Many electronic components or medical drugs are manufactured under strict cleanliness standards. However, the prices are often too high, especially for startups and personal use. This project involves monitoring clean rooms using various high-quality sensors at a very reasonable price.
 
 The project starts by reading the values sensed by the sensors and then processing them to determine if they fall within the permissible limits. ISO5 has been set as a reference. The data is then displayed on the ThingSpeak website.
